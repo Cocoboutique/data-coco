@@ -1,2 +1,5 @@
 [26/Sep/2021:10:10:27 +0000] 404 - HEAD http localhost-nginx-proxy-manager "/robots.txt" [Client 45.95.147.3] [Length 0] [Gzip -] "-" "-"
 [26/Sep/2021:10:18:36 +0000] 404 - GET http localhost-nginx-proxy-manager "/boaform/admin/formLogin?username=ec8&psd=ec8" [Client 42.228.101.146] [Length 150] [Gzip -] "-" "-"
+[26/Sep/2021:10:46:34 +0000] 200 - GET http localhost-nginx-proxy-manager "/" [Client 94.180.25.169] [Length 1033] [Gzip -] "-" "-"
+[26/Sep/2021:10:52:14 +0000] 404 - POST http 82.64.166.253 "/boaform/admin/formLogin" [Client 107.189.6.44] [Length 122] [Gzip 1.35] "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0" "http://82.64.166.253:80/admin/login.asp"
+[26/Sep/2021:10:52:15 +0000] 400 - - http localhost-nginx-proxy-manager "-" [Client 107.189.6.44] [Length 0] [Gzip -] "-" "-"
