@@ -1,0 +1,2 @@
+[26/Sep/2021:10:10:27 +0000] 404 - HEAD http localhost-nginx-proxy-manager "/robots.txt" [Client 45.95.147.3] [Length 0] [Gzip -] "-" "-"
+[26/Sep/2021:10:18:36 +0000] 404 - GET http localhost-nginx-proxy-manager "/boaform/admin/formLogin?username=ec8&psd=ec8" [Client 42.228.101.146] [Length 150] [Gzip -] "-" "-"
