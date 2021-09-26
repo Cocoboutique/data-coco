@@ -31,3 +31,4 @@
 [26/Sep/2021:08:01:35 +0000] 444 - GET https 82.64.166.253 "///remote/fgt_lang?lang=/../../../..//////////dev/" [Client 91.132.58.62] [Length 0] [Gzip -] "python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1160.41.1.el7.x86_64" "-"
 [26/Sep/2021:08:23:44 +0000] 444 - GET https 82.64.166.253 "/" [Client 128.14.141.34] [Length 0] [Gzip -] "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36" "-"
 [26/Sep/2021:08:35:14 +0000] 444 - GET https 82.64.166.253 "/" [Client 192.241.208.78] [Length 0] [Gzip -] "Mozilla/5.0 zgrab/0.x" "-"
+[26/Sep/2021:11:03:53 +0000] 400 - OPTIONS http 82.64.166.253 "/" [Client 181.214.206.111] [Length 654] [Gzip -] "Mozilla/5.0 (X11; CrOS i686 4319.74.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36" "-"
